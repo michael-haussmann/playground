@@ -4,13 +4,13 @@
 
 # global owner
 
-* michael-haussmann
+* @michael-haussmann
 
 # owner of ham3si.txt
-ham3si.txt	michael-haussmann
+ham3si.txt	@michael-haussmann
 
 # owner of mh11.txt
-mh11.txt	mh11-mh11
+mh11.txt	@mh11-mh11
 
 #owner of test.txt
 test.txt	
