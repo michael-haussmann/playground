@@ -1,0 +1,16 @@
+# I use owner-names instead of groups for testing purpose
+# michael-haussmann is the Bosch-User
+# mh11-mh11 is the personal user
+
+# global owner
+
+* @michael-haussmann
+
+# owner of ham3si.txt
+ham3si.txt	@michael-haussmann
+
+# owner of mh11.txt
+mh11.txt	@mh11-mh11
+
+#owner of test.txt
+test.txt	
